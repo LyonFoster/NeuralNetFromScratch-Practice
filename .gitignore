@@ -1,4 +1,4 @@
 #ignore the most recent executable I made
 
 *.out
-eigen-3.3.7
+eigen-3.3.7/
