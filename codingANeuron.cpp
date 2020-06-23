@@ -1,4 +1,3 @@
-// fuckin uhhhh neural net from scratch
 #include <iostream>
 #include <cmath>
 #include <Eigen/Dense>
